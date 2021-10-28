@@ -1,1 +1,0 @@
-Belajar GIT dengan penuh semangat dan kebahagiaan
